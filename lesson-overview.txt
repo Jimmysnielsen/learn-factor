@@ -1,0 +1,30 @@
+! Copyright (C) 2021 Your name.
+! See http://factorcode.org/license.txt for BSD license.
+USING: ;
+IN: learn-factor
+
+
+lesson
+000x    template for lessons
+0005    basic assumptions and requirements
+0006    why you should learn and use factor
+0010    setting up a learning and developers environment
+0020    creating a new vocabolary environment
+0030    using the listener 
+0040    the stack
+0050    control flow
+0060    variables and other containers for data
+0070    making an application
+0080    command-line scripts
+0090    the zen of factor
+0100    tips and tricks
+0200
+0300
+0400
+0500
+0600
+0700
+0800
+0900
+
+ 
